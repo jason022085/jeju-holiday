@@ -1,2 +1,0 @@
-# jeju-holiday
-Vacation!
